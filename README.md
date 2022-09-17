@@ -26,3 +26,7 @@ https://github.com/josephsawaya/ECE444-F2022-EP
 # Activity 7
 ![](images/Activity7.png)
 ![](images/Activity7-1.png)
+
+# Activity 8
+![](images/Activity8.png)
+![](images/Activity8-1.png)
