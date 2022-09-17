@@ -18,3 +18,7 @@ https://github.com/Sean-Kurian/ECE444-F2022-Lab1
 # Activity 5
 
 ![](images/Activity5.png)
+
+# Activity 6
+
+https://github.com/josephsawaya/ECE444-F2022-EP
